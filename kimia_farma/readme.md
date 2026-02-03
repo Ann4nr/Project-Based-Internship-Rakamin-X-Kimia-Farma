@@ -1,5 +1,28 @@
 Data source kimia_farma:
 - kf_final_transaction.csv
+  - transaction_id: transaction ID code,
+  - product_id: medicine product code,
+  - branch_id: Kimia Farma branch ID code,
+  - customer_name: name of the customer who made the transaction,
+  - date: date the transaction was made,
+  - price: price of the medicine,
+  - discount_percentage: Percentage discount given on the medicine,
+  - rating: consumer rating of the transaction made.
 - kf_inventory.csv
+  - inventory_ID: medicine product inventory code,
+  - branch_id: Kimia Farma branch ID code,
+  - product_id: medicine product ID code,
+  - product_name: medicine product name,
+  - opname_stock: medicine product stock quantity.
 - kf_kantor_cabang.csv
+  - branch_id: Kimia Farma branch ID code,
+  - branch_category: Kimia Farma branch category,
+  - branch_name: Kimia Farma branch office name,
+  - city: Kimia Farma branch city,
+  - province: Kimia Farma branch province,
+  - rating: consumer rating of the Kimia Farma branch.
 - kf_product.csv
+  - product_id: medicine product code,
+  - product_name: medicine product name,
+  - product_category: medicine product category,
+  - price: medicine price.
