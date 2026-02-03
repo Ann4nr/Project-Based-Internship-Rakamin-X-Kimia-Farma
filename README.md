@@ -26,11 +26,11 @@ Mandatory columns included in the analysis table:
 - province: Kimia Farma branch province,
 - branch_rating: consumer rating of Kimia Farma branch,
 - customer_name: name of the customer who made the transaction,
-- product_id: drug product code,
-- product_name: drug name,
-- actual_price: drug price,
-- discount_percentage: discount percentage given on the drug,
-- gross_profit_percentage : The percentage of profit that should be received from drugs with the following conditions:
+- product_id: medicine product code,
+- product_name: medicine name,
+- actual_price: medicine price,
+- discount_percentage: discount percentage given on the medicine,
+- gross_profit_percentage : The percentage of profit that should be received from medicines with the following conditions:
     - Price <= Rp 50,000 -> 10% profit
     - Price > Rp 50,000 - 100,000 -> 15% profit
     - Price > Rp 100,000 - 300,000 -> 20% profit
