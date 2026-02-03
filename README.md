@@ -1,5 +1,5 @@
 # Project-Based-Internship-Rakamin-X-Kimia-Farma
-Final Project Kimia Farma Big Data Analyst: Performance Analytics Kimia Farma Business Year 2020-2023 using BigQuery SQL &amp; Looker Studio.
+Final Task Kimia Farma Big Data Analyst: Performance Analytics Kimia Farma Business Year 2020-2023 using BigQuery SQL &amp; Looker Studio.
 
 🔍 Project Summary
 
